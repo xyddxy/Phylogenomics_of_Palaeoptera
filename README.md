@@ -10,7 +10,7 @@ Appendix B.zip: Detailed θ values of Gene tree simulation.
 
 Appendix C.docx: Commands and parameters used for gene tree simulation.
 
-Appendix D.xlsx:
+Appendix D.xlsx: The alpha value of the Gamma shape distribution, amino acid substitution frequencies, sequence lengths, and the proportion of saturated sites for each gene extracted from empirical datasets.
 
 Appendix E.txt:
 
