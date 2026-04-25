@@ -6,7 +6,7 @@ Shiyu Du, Yehao Wang, Feng Zhang, Michael S. Engel, Xuhongyi Zheng, Dewen Gong, 
 
 Appendix A.nexus: Nexus file used for FcLM analysis.
 
-Appendix B.zip:
+Appendix B.zip: Detailed θ values of Gene tree simulation.
 
 Appendix C.docx:
 
