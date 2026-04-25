@@ -12,7 +12,7 @@ Appendix C.docx: Commands and parameters used for gene tree simulation.
 
 Appendix D.xlsx: The alpha value of the Gamma shape distribution, amino acid substitution frequencies, sequence lengths, and the proportion of saturated sites for each gene extracted from empirical datasets.
 
-Appendix E.txt:
+Appendix E.txt: Detailed simulation commands for 10,000 gap-free AA alignments.
 
 Appendix F.pdf:
 
