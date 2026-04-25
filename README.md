@@ -8,7 +8,7 @@ Appendix A.nexus: Nexus file used for FcLM analysis.
 
 Appendix B.zip: Detailed θ values of Gene tree simulation.
 
-Appendix C.docx:
+Appendix C.docx: Commands and parameters used for gene tree simulation.
 
 Appendix D.xlsx:
 
