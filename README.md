@@ -1,1 +1,1 @@
-# phylogenetics_of_Palaeoptera
+# Phylogenomics_of_Palaeoptera
