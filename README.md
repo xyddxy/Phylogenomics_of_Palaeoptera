@@ -20,3 +20,6 @@ Appendix G.pdf:
 
 treefile.zip:
 
+## Contact
+
+Please send emails to Dr. Shiyu Du (zjjhdsy@126.com).
