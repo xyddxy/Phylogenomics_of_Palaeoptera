@@ -18,7 +18,7 @@ Appendix F.pdf: All 18 phylogenetic trees.
 
 Appendix G.pdf: All three independent runs of divergence-time trees.
 
-treefile.zip: All 21 treefiles of phylogenetic trees and MCMCTrees.
+treefile.zip: All 21 treefile files of phylogenetic trees and MCMCTrees.
 
 treefile-bnni_run10.zip: All 
 
