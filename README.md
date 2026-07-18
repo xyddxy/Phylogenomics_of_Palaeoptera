@@ -16,11 +16,11 @@ Appendix E.txt: Detailed simulation commands for 10,000 gap-free AA alignments.
 
 Appendix F.pdf: All 18 phylogenetic trees.
 
-Appendix G.pdf: All three independent runs of divergence-time trees.
+Appendix G.zip: All treefiles of phylogenetic trees under '--bnni' and '--run10' parameters with ML analyese using IQ-TREE.
+
+Appendix H.pdf: All three independent runs of divergence-time trees.
 
 treefile.zip: All 21 treefiles of phylogenetic trees and MCMCTrees.
-
-treefile-bnni_run10.zip: All treefiles of phylogenetic trees under '--bnni' and '--run10' parameters with ML analyese using IQ-TREE.
 
 ## Contact
 
