@@ -1,4 +1,4 @@
-# Phylogenomics resolves the Palaeoptera problem and illuminates the origin of winged insects
+# Phylogenomics confirms the Palaeoptera monophyly and illuminates the origin of winged insects
 
 Shiyu Du, Yehao Wang, Feng Zhang, Michael S. Engel, Xuhongyi Zheng, Dewen Gong, Changfa Zhou, Chenyang Cai
 
